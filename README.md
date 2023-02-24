@@ -21,7 +21,8 @@ Java
 <a href="https://replit.com/github/yzsong06/replit-halo">
   <img alt="Run on Repl.it" src="https://replit.com/badge/github/github/halo" style="height: 40px; width: 190px;" />
 </a>
-安装主程序：在Replit Shell输入sh install.sh下载halo博客主程序
+
+
 ### 针对教育版:
 
 1. 建立一个Bash项目.
